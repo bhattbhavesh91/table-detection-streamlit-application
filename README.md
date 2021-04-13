@@ -3,8 +3,14 @@
 Link to the official Repo : https://github.com/DevashishPrasad/CascadeTabNet
 
 ## To view the video
-* [Click here](https://youtu.be/bFahxVX9Ka0)
-* Click on the image below
+
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=bFahxVX9Ka0" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/bFahxVX9Ka0?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+or click on the image below
 
 [![CascadeTabNet Google Colab Implementation](http://img.youtube.com/vi/bFahxVX9Ka0/0.jpg)](http://www.youtube.com/watch?v=bFahxVX9Ka0)
 
